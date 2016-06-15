@@ -1,0 +1,4 @@
+//SPIELSTAND//
+
+0 - Hauptmenü 
+1 - Exit Screen 
